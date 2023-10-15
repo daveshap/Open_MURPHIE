@@ -1,6 +1,6 @@
 # Open MURPHIE
 
-Open MURPHIE (Multi Use Robotic Platform Intelligent Entity) is an early-stage open-source project aimed at creating real-life droids akin to R2D2, C3P0, or Commander Data. The project is in its nascent stage and we are actively seeking contributors and sponsors to help bring this vision to life.
+Open MURPHIE (Multi Use Robotic Platform Humanoid Intelligent Entity) is an early-stage open-source project aimed at creating real-life droids akin to R2D2, C3P0, or Commander Data. The project is in its nascent stage and we are actively seeking contributors and sponsors to help bring this vision to life.
 
 ## Project Goals
 
