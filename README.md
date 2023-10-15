@@ -6,7 +6,7 @@ Open MURPHIE (Multi Use Robotic Platform Humanoid Intelligent Entity) is an earl
 
 The ultimate goal of Open_MURPHIE is to provide an open-source alternative to platforms like Boston Dynamics and Tesla's Optimus. We aim to create a versatile robotic platform that can be used in a variety of applications, from digital assistants in the cloud to smart home devices or even embodied in robots.
 
-This project runs parallel to the [https://github.com/daveshap/ACE_Framework](ACE Framework) (Autonomous Cognitive Entity), a universal and extensible cognitive architecture designed to create fully autonomous agents. The long-term vision is to integrate the ACE Framework with Open_MURPHIE, creating a comprehensive solution for autonomous robotics.
+This project runs parallel to the [ACE Framework]([ACE Framework](https://github.com/daveshap/ACE_Framework)) (Autonomous Cognitive Entity), a universal and extensible cognitive architecture designed to create fully autonomous agents. The long-term vision is to integrate the ACE Framework with Open_MURPHIE, creating a comprehensive solution for autonomous robotics.
 
 ## How to Contribute
 
